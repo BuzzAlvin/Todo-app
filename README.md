@@ -27,7 +27,7 @@ It allows users to add, complete, filter, delete tasks, and persist data using *
 
 ## ▶ Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/BuzzAlvin/todo-app.git
 
 2️⃣ Install dependencies
 npm install
