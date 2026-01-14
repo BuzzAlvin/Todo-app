@@ -73,7 +73,7 @@ export default function App() {
         todos={todos}
         filteredTodos={filteredTodos}
       />
-      <p className="flex justify-center text-gray-300 text-sm sm:text-lg">Made With ❤ by BuzzAlvin</p>
+      <footer className="flex justify-center text-gray-300 text-sm sm:text-lg">Made With ❤ by BuzzAlvin</footer>
     </main>
   );
 }
